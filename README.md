@@ -1,5 +1,5 @@
 {
-"lol":"http://6665800.cn/cason.html",
+"lol":"http://baidu.com",
 "objectId":"1",
 "isShowTabbar":1,
 }
